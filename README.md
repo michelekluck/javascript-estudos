@@ -1,1 +1,6 @@
 - aula 4 > ex001: window.alert, window.confirm e window.prompt
+- aula 6 > ex002: var, window.prompt e window.alert
+- aula 6 > ex003: var, Number(window,prompt), window.alert e ${}
+- aula 6 > ex004: var, window.prompt, document.write, ${} e .toLowerCase()
+- aula 6 > ex005: var, window.document.getElementByTagName(), .innerText, window.document.querySelector() e .style.background
+- aula 10 > ex006: window.document.getElementById(), add.EventListener(), function, .innerText
