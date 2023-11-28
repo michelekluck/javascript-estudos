@@ -4,3 +4,7 @@
 - aula 6 > ex004: var, window.prompt, document.write, ${} e .toLowerCase()
 - aula 6 > ex005: var, window.document.getElementByTagName(), .innerText, window.document.querySelector() e .style.background
 - aula 10 > ex006: window.document.getElementById(), add.EventListener(), function, .innerText
+- aula 11 > ex008: "radar" de velocidade javascript. if ()
+- aula 11 > ex009: nacionalidade javascript. if() {} else {}
+- aula 11 > ex010: velocidade do carro html - javascript. usando condição if
+- aula 11 > ex011: nacionalidade html - javascript. usando usando condição if e else
