@@ -8,3 +8,6 @@
 - aula 11 > ex009: nacionalidade javascript. if() {} else {}
 - aula 11 > ex010: velocidade do carro html - javascript. usando condição if
 - aula 11 > ex011: nacionalidade html - javascript. usando usando condição if e else
+- aula 12 > ex012: idade para votar - condições if, else if e else (javascript)
+- aula 12 > ex013: horario do dia (bom dia, boa tarde e boa noite) .getHours(), condições if, else if e else. (javascript)
+- aula 12 > ex014: condição multipla: swicth. dias da semana (javascript)
