@@ -12,7 +12,7 @@ Exercicio feito com o professor Guanabara do Curso em Video
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse exercicio foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
