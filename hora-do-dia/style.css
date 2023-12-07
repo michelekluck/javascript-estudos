@@ -1,6 +1,7 @@
 body{
     background: rgb(99, 130, 194);
     font: normal 15pt Arial;
+    width: 100%;
 }
 
 header {
@@ -26,4 +27,25 @@ footer {
     color: white;
     text-align: center;
     font-style: italic;
+}
+
+@media screen and (max-width: 425px) {
+    body {
+    }
+    h1 {
+        font-size: 20px;
+    }
+    #msg {
+        font-size: 15px;
+    }
+    section {
+        width:50%
+    }
+ 
+    #imagem {
+        width: 150px;
+    }
+    footer {
+        font-size: 12px;
+    }
 }
