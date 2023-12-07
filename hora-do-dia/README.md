@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Hora do Dia </h1>
 
 <p align="center">
 Exercicio feito com o professor Guanabara do Curso em Video
