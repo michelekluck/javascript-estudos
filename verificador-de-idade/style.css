@@ -22,6 +22,10 @@ div {
     padding: 10px;
 }
 
+#foto {
+    margin-top: 20px;
+}
+
 footer {
     color: white;
     text-align: center;
@@ -29,22 +33,23 @@ footer {
 }
 
 @media screen and (max-width: 425px) {
-    body {
-    }
     h1 {
         font-size: 20px;
     }
-    #msg {
-        font-size: 15px;
+    p {
+        font-size: 16px;
+        text-align: center;
     }
     section {
-        width:50%
+        width:80%
     }
-    div#foto {
-
+    #res {
+        font-size: 16px;
+        text-align: center;
     }
-    #imagem {
-        width: 150px;
+    #foto {
+        width: 200px;
+        margin-top: 20px;
     }
     footer {
         font-size: 12px;
