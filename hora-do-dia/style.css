@@ -30,22 +30,17 @@ footer {
 }
 
 @media screen and (max-width: 425px) {
-    body {
-    }
     h1 {
-        font-size: 20px;
+        font-size: 24px;
     }
     #msg {
-        font-size: 15px;
+        font-size: 16px;
     }
     section {
-        width:50%
-    }
-    div#foto {
-
+        width:80%
     }
     #imagem {
-        width: 150px;
+        width: 200px;
     }
     footer {
         font-size: 12px;
