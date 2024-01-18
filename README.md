@@ -11,3 +11,5 @@
 - aula 12 > ex012: idade para votar - condições if, else if e else (javascript)
 - aula 12 > ex013: horario do dia (bom dia, boa tarde e boa noite) .getHours(), condições if, else if e else. (javascript)
 - aula 12 > ex014: condição multipla: swicth. dias da semana (javascript)
+- aula 13 > Repetições: do e while
+- aula 14 > Repetições: for
