@@ -12,4 +12,11 @@
 - aula 12 > ex013: horario do dia (bom dia, boa tarde e boa noite) .getHours(), condições if, else if e else. (javascript)
 - aula 12 > ex014: condição multipla: swicth. dias da semana (javascript)
 - aula 13 > Repetições: do e while
-- aula 14 > Repetições: for
+- aula 14 > Repetições(loop): for
+- aula 15 > ambiente.js: Variaveis compostas/Array/Vetor: acrescentar mais um elemento no array, adicionar elemento na ultima posição, saber o comprimento do array, colocar os elementos em ordem crescente e buscar valores dentro de um array.
+- aula 15 > vetornatela.js: for(let...in...)
+- aula 16 > funcao01.js: Funçôes: verificar se o numero é PAR ou IMPAR
+- aula 16 > funcao02.js: function soma(n1=0, n2=0)
+- aula 16 > funcao03.js: criando uma função dentro de uma variavel
+- aula 16 > funcao04.js: function fatorial(n) - função que calcula fatorial o loop for
+- aula 16 > funcao05.js: função RECURSIVA
