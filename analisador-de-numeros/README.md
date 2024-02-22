@@ -7,5 +7,5 @@ Foi proposto o seguinte:
 - A soma de todos esses valores;
 - Qual foi o maior valor digitado;
 - Qual foi o menor valor digitado;
-- E qual a média da soma de todos os valores digitados.
+- E qual a média da soma de todos os valores digitados.<br>
 *Em prof-analisador-de-numeros é como o professor Guanabara resolveu esse exercicio
