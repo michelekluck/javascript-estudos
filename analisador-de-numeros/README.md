@@ -8,3 +8,4 @@ Foi proposto o seguinte:
 - Qual foi o maior valor digitado;
 - Qual foi o menor valor digitado;
 - E qual a média da soma de todos os valores digitados.
+*Em prof-analisador-de-numeros é como o professor Guanabara resolveu esse exercicio
