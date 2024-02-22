@@ -20,3 +20,4 @@
 - aula 16 > funcao03.js: criando uma função dentro de uma variavel
 - aula 16 > funcao04.js: function fatorial(n) - função que calcula fatorial o loop for
 - aula 16 > funcao05.js: função RECURSIVA
+- aula 17 > objetos com funções (introdução básica)
