@@ -1,4 +1,4 @@
-Analisador de números é um exercício proposto com o professor Guanabara em que eu tentei fazer sozinha <br>
+Analisador de números é um exercício proposto pelo professor Guanabara em que eu tentei fazer sozinha <br>
 Foi proposto o seguinte:
 - O usuário so poderia digitar números inteiros de 1 a 100
 - O número não poderia ser repetido a algum ja digitado e adicionado
